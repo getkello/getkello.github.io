@@ -1,4 +1,4 @@
-HTTrack3.49-2 launched on Wed, 30 Apr 2025 14:27:22 at https://help.getkello.com +*.getkello.com/* +*.cloudfront.net/* +*.intercomcdn.com/* +*.googleapis.com/* +*.gstatic.com/* +*.jsdelivr.net/* +*.zendesk.com/*
+HTTrack3.49-2 launched on Wed, 30 Apr 2025 14:35:05 at https://help.getkello.com +*.getkello.com/* +*.cloudfront.net/* +*.intercomcdn.com/* +*.googleapis.com/* +*.gstatic.com/* +*.jsdelivr.net/* +*.zendesk.com/*
 (httrack https://help.getkello.com -O ./help +*.getkello.com/* +*.cloudfront.net/* +*.intercomcdn.com/* +*.googleapis.com/* +*.gstatic.com/* +*.jsdelivr.net/* +*.zendesk.com/* -%! -s0 -c8 -%c10 -M0 -E0 -A0 -%v )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,14 +6,14 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-14:27:22	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
-14:28:35	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link support.getkello.com/ (from https://help.getkello.com/)
-14:28:36	Error: 	"Not Found" (404) at link https://help.getkello.com/article/getkello.com/contact (from https://help.getkello.com/article/37-my-kello-is-completely-unresponsive)
-14:28:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link support.getkello.com/article/50-how-to-hard-reset-your-kello (from https://help.getkello.com/article/36-my-kello-always-displays-the-loading-bar)
-14:29:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link support.getkello.com/ (from https://help.getkello.com/)
-14:29:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link support.getkello.com/article/50-how-to-hard-reset-your-kello (from https://help.getkello.com/article/36-my-kello-always-displays-the-loading-bar)
-14:29:08	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link support.getkello.com/ (from https://help.getkello.com/)
-14:29:08	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link support.getkello.com/article/50-how-to-hard-reset-your-kello (from https://help.getkello.com/article/36-my-kello-always-displays-the-loading-bar)
+14:35:05	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
+14:36:18	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link support.getkello.com/ (from https://help.getkello.com/)
+14:36:18	Error: 	"Not Found" (404) at link https://help.getkello.com/article/getkello.com/contact (from https://help.getkello.com/article/37-my-kello-is-completely-unresponsive)
+14:36:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link support.getkello.com/article/50-how-to-hard-reset-your-kello (from https://help.getkello.com/article/36-my-kello-always-displays-the-loading-bar)
+14:36:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link support.getkello.com/ (from https://help.getkello.com/)
+14:36:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link support.getkello.com/article/50-how-to-hard-reset-your-kello (from https://help.getkello.com/article/36-my-kello-always-displays-the-loading-bar)
+14:36:50	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link support.getkello.com/ (from https://help.getkello.com/)
+14:36:50	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link support.getkello.com/article/50-how-to-hard-reset-your-kello (from https://help.getkello.com/article/36-my-kello-always-displays-the-loading-bar)
 
-HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 46 seconds : 104 links scanned, 97 files written (23402442 bytes overall) [22546931 bytes received at 212706 bytes/sec], 1274389 bytes transferred using HTTP compression in 43 files, ratio 27%, 2.0 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 105 links scanned, 98 files written (23405026 bytes overall) [22548366 bytes received at 214746 bytes/sec], 1276973 bytes transferred using HTTP compression in 44 files, ratio 28%, 2.0 requests per connection
 (3 errors, 5 warnings, 0 messages)

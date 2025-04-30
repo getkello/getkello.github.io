@@ -1,5 +1,5 @@
 https://help.getkello.com -O ./help +*.getkello.com/* +*.cloudfront.net/* +*.intercomcdn.com/* +*.googleapis.com/* +*.gstatic.com/* +*.jsdelivr.net/* +*.zendesk.com/* -%! -s0 -c8 -%c10 -M0 -E0 -A0 -%v
-File generated automatically on Wed, 30 Apr 2025 14:27:22, do NOT edit
+File generated automatically on Wed, 30 Apr 2025 14:35:05, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

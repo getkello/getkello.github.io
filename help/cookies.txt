@@ -1,4 +1,4 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-help.getkello.com	TRUE	/	FALSE	1999999999	PLAY_SESSION	e7b853660e6c0b268073e97e2f5d72d9a538966d-siteId=58cba81b2c7d3a79f5f8d1fb&hs.session.id=O6o6mhm3NreygDYPnGrsCsXsWdDvxhG8fUZKGFtovWDwbI5nP7ZHFeaQ9UyykGY8&hs.session.exp=1746102514610"
+help.getkello.com	TRUE	/	FALSE	1999999999	PLAY_SESSION	163842e28e989677e10273668a23b03d7974b146-siteId=58cba81b2c7d3a79f5f8d1fb&hs.session.id=lvvFxMyglTGETR5OM4JP9sJOgtvFdKIW9KQ8G62G40icnzVawPxx4vGdpAl8nhqX&hs.session.exp=1746102977549"
 
