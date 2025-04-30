@@ -1,1 +1,0 @@
-httrack https://help.getkello.com -O ./site_kello_help +*.getkello.com/* +*.cloudfront.net/* +*.intercomcdn.com/* +*.googleapis.com/* +*.gstatic.com/* +*.jsdelivr.net/* +*.zendesk.com/* -%! -s0 -%v 
