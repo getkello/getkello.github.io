@@ -1,7 +1,0 @@
-Mirror in progress since Wed, 30 Apr 2025 14:03:13 .. please wait!
-httrack https://help.getkello.com -O ./site_kello_help +*.getkello.com/* +*.cloudfront.net/* +*.intercomcdn.com/* +*.googleapis.com/* +*.gstatic.com/* +*.jsdelivr.net/* +*.zendesk.com/* -%! -s0 -%v 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=54174
-UID=501
-GID=501
-START=1746014593
